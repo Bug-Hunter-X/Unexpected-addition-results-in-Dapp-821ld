@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a bug in the add function. The bug causes unexpected results when adding large numbers due to JavaScript's number precision limitations. A solution is provided in a separate file.
